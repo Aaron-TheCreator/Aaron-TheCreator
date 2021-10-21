@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Aaron! 👋
+- 🔭 I’m currently working on getting hired to write code.
+- 🌱 I’m currently learning three.js
+- 👯 I’m looking to collaborate on Javascript projects.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about collaborating on projects
+- 📫 How to reach me: Email: a.aburns95@gmail.com
+- ⚡ Fun fact: My GitHub name is inspired by Tyler, The Creator, the music producer/ rapper.
 
 <!--
 **Aaron-TheCreator/Aaron-TheCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
