@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 🤝 I’m looking for help with React+three.js [React+Three.js 3D Earth](https://github.com/Aaron-TheCreator/react-3d-earth)
+- 🤝 I’m looking for help with React+three.js [Projects](https://github.com/Aaron-TheCreator/react-3d-earth)
 https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
 
 - 💬 Ask me about collaborating on projects that uses **React, Redux, Node, Express**
