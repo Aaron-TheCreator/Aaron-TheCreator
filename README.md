@@ -35,4 +35,4 @@ https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-thecreator&show_icons=true&locale=en" alt="aaron-thecreator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-thecreator&" alt="aaron-thecreator" /></p>
-https://www.credly.com/badges/6d1bd084-082c-4e61-9035-241f1d042e54/public_url
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d1bd084-082c-4e61-9035-241f1d042e54" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
