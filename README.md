@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **three.js**
 
 - 🤝 I’m looking for help with React+three.js [React+Three.js 3D Earth](https://github.com/Aaron-TheCreator/react-3d-earth)
-<p><div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/98ee37a26bf44f5798b1f50d277d51df" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div></p>
+https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
 
 - 💬 Ask me about collaborating on projects that uses **React, Redux, Node, Express**
 
