@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with React+three.js [Projects](https://github.com/Aaron-TheCreator/react-3d-earth)
 https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
 
-- 💬 Ask me about collaborating on projects that uses **React, Redux, Node, Express**
+- 💬 Ask me about collaborating on projects that use **React, Redux, Node, Express**
 
 - 📫 How to reach me **A.aburns95@gmail.com**
 
