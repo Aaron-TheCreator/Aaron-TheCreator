@@ -14,6 +14,8 @@ https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
 
 - 💬 Ask me about collaborating on projects that use **React, Redux, Node, Express**
 
+- 🧑🏾‍💻 All of my projects are available at [https://Aaron-TheCreator.netlify.app/](https://Aaron-TheCreator.netlify.app/)
+
 - 📫 How to reach me **A.aburns95@gmail.com**
 
 - 📄 Learn more about my experiences [https://docs.google.com/document/d/1E83Okqb--M8OzU-y-F4Ue3bZ3aZIhP7NEOI1p2Lq5Z4/edit?usp=sharing](https://docs.google.com/document/d/1E83Okqb--M8OzU-y-F4Ue3bZ3aZIhP7NEOI1p2Lq5Z4/edit?usp=sharing)
