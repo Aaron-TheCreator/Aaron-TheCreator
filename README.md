@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋🏽 I'm Aaron</h1>
-<h3 align="center">An eager Full-Stack Web developer</h3>
+<h3 align="center">A Software Engineer 🥑</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron-thecreator&label=Profile%20views&color=0e75b6&style=flat" alt="aaron-thecreator" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaron-thecreator" alt="aaron-thecreator" /></a> </p>
 
-- 🔭 I’m currently working on [Scribble Stadium](https://github.com/Lambda-School-Labs/scribble-stadium-be)
+- 🔭 I’m currently working on [Cisco Webex](https://github.com/webex)
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **ALL ABOUT DEVELOPER EVANGELISM 🥑**
 
-- 🤝 I’m looking for help with React+three.js [Projects](https://github.com/Aaron-TheCreator/react-3d-earth)
-https://www.loom.com/share/98ee37a26bf44f5798b1f50d277d51df
-
-- 💬 Ask me about collaborating on projects that use **React, Redux, Node, Express**
+- 💬 Ask me about collaborating on projects that use **Webex REST API, Webex JS SDK, React, Redux, Node, Express, THREE**
 
 - 🧑🏾‍💻 All of my projects are available at [https://Aaron-TheCreator.netlify.app/](https://Aaron-TheCreator.netlify.app/)
 
