@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ALL ABOUT DEVELOPER EVANGELISM 🥑**
 
-- 💬 Ask me about collaborating on projects that use **Webex REST API, Webex JS SDK, React, Redux, Node, Express, THREE**
+- 💬 Ask me about collaborating on projects that use **Webex REST API, Webex JS SDK, Webex Android SDK 3.3^, React, Redux, Node, Express, THREE**
 
 - 🧑🏾‍💻 All of my projects are available at [https://Aaron-TheCreator.netlify.app/](https://Aaron-TheCreator.netlify.app/)
 
