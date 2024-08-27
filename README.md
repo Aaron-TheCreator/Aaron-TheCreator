@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaron-thecreator" alt="aaron-thecreator" /></a> </p>
 
-- 🔭 I’m currently working on [Best Served Cold]([https://github.com/webex](https://github.com/Aaron-TheCreator/bscdemo/tree/main))
+- 🔭 I’m currently working on [Best Served Cold](https://github.com/Aaron-TheCreator/bscdemo/tree/main)
 
 - 🌱 I’m currently learning **Serverless Functions**
 
