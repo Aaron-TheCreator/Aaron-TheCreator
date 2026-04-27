@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaron-thecreator" alt="aaron-thecreator" /></a> </p>
 
-- 🔭 I’m currently working on [Best Served Cold](https://github.com/Aaron-TheCreator/bscdemo/tree/main)
-
 - 🌱 I’m currently learning **Serverless Functions**
 
 - 💬 Ask me about collaborating on projects that use **Webex REST API, Webex JS SDK, Webex Android SDK 3.3^, React, Redux, Node, Express, THREE**
