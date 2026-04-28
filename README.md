@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Serverless Functions**
 
-- 💬 Ask me about collaborating on projects that use **Webex REST API, Webex JS SDK, Webex Android SDK 3.3^, React, Redux, Node, Express, THREE**
+- 💬 Ask me about collaborating on projects that use ** React, Typescript, Python, REST, SQL, TDD **
 
-- 🧑🏾‍💻 All of my projects are available at [https://Aaron-TheCreator.netlify.app/](https://Aaron-TheCreator.netlify.app/)
+- 🧑🏾‍💻 View my Portfolio [here](https://Aaron-TheCreator.netlify.app/)
 
 - 📫 How to reach me **A.aburns95@gmail.com**
 
-- 📄 Learn more about my experiences [https://docs.google.com/document/d/1E83Okqb--M8OzU-y-F4Ue3bZ3aZIhP7NEOI1p2Lq5Z4/edit?usp=sharing](https://docs.google.com/document/d/1E83Okqb--M8OzU-y-F4Ue3bZ3aZIhP7NEOI1p2Lq5Z4/edit?usp=sharing)
+- 📄 Learn more about my experiences [Resume](https://docs.google.com/document/d/1mvL-5uPkCVEHKe1lAkWaNHqLp3W1b6WF8UxV7WOCDf8/edit?usp=sharing)
 
 - ⚡ Fun fact **My GitHub username is inspired by Tyler, The Creator, the rapper/music producer**
 
