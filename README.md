@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Serverless Functions**
 
-- 💬 Ask me about collaborating on projects that use ** React, Typescript, Python, REST, SQL, TDD **
+- 💬 Ask me about collaborating on projects that use **React, Typescript, Python, REST, SQL, TDD**
 
 - 🧑🏾‍💻 View my Portfolio [here](https://Aaron-TheCreator.netlify.app/)
 
